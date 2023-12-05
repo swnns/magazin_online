@@ -49,11 +49,11 @@
     },
     {
       "id": 4,
-      "name": "RGB",
-      "description": "Can make color party.",
+      "name": "twix",
+      "description": "doua bastanoase pentru tine si prietenul tau",
       "price": 92,
       "author_id": 1,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
+      "photo_url": "https://www.candystor.ru/upload/iblock/f3b/v36ir9zokyhzkls7axf5htqhiokb1sff/pechenje_v_shokolade_tviks_55g40sht6blokov.jpg"
     },
     {
       "id": 5,
